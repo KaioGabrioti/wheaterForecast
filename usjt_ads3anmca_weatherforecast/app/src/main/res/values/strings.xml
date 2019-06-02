@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">usjt_ads3anmca_weatherforecast</string>
+    <string name="action_settings">Settings</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="weather_condition_image">Graphical representation of weather conditions</string>
+    <string name="high_temp">Max: %s</string>
+    <string name="low_temp">Min: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Humidity: %s</string>
+    <string name="hint_text">Type city name</string>
+    <string name="read_error">Could not read data</string>
+    <string name="connect_error">Could not connect to server</string>
+</resources>
